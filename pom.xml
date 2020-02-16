@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.cliff</groupId>
 	<artifactId>spring-pet-clinic</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>1</version>
 	<name>spring-pet-clinic</name>
 	<description>Spring Course Project</description>
 
@@ -46,7 +46,7 @@
 		<developerConnection>
 			scm:git:https://github.com/KupriyanovAnton/test-spring-pet-clinic.git
 		</developerConnection>
-	  <tag>spring-pet-clinic-0.0.3</tag>
+	  <tag>1</tag>
   </scm>
 
 </project>
